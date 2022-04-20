@@ -28,8 +28,9 @@ Gantt chart.
 - Run the Main.py file then give all the necessary data.
 
 ### Important
-Total BT for a process = CPU Burst time + I/O Burst time + CPU Burst time
-I/O Burst time= I/O Burst time 
+Total BT for a process = CPU Burst time + I/O Burst time + CPU Burst time.
+
+I/O Burst time= I/O Burst time .
 
 
 
