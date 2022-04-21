@@ -50,3 +50,21 @@ I/O Burst time= I/O Burst time .
 
 ![Screenshot from 2022-04-21 20-13-57](https://user-images.githubusercontent.com/59512321/164479354-18361fdd-e12d-4b94-a48d-394dc8b1caa8.png)
 
+### VIDEO 
+
+
+
+
+
+https://user-images.githubusercontent.com/59512321/164487040-671c9d02-9cb5-48e0-a8b1-eb9355fcca7a.mp4
+
+
+
+
+
+
+
+
+
+
+
