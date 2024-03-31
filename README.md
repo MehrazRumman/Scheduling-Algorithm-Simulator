@@ -1,5 +1,5 @@
 ## P03 Scheduling-Algorithm-Simulator
-### Asif Saif Uddin
+
 ### Description :
 Simulator will show a graphical represestation of how processes done in a CPU . There are 5 Scheduling algorithm implemneted. They are :
 - First-Come, First-Served (FCFS) Scheduling.
